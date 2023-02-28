@@ -1,0 +1,34 @@
+[
+    {
+        "id": "IDJP01",
+        "job": "Sr. Java Developer",
+        "location": "Atlanta",
+        "type": "Full-time",
+        "vacancies": "1",
+        "qualifications": "Bachelor’s degree or equivalent experience."
+    },
+    {
+        "id": "IDJP02",
+        "job": "Manual Tester",
+        "location": "NY",
+        "type": "Part-time",
+        "vacancies": "2",
+        "qualifications": "5 years of experience in product management."
+    },
+    {
+        "id": "IDJP03",
+        "job": "DevOps",
+        "location": "Miami",
+        "type": "Intern",
+        "vacancies": "5",
+        "qualifications": "1 year of experience building Spring Core products. \n Hola mundo"
+    },
+    {
+        "id": "IDJP03",
+        "job": "DevOps",
+        "location": "Miami",
+        "type": "Intern",
+        "vacancies": "5",
+        "qualifications": "1 year of experience building Spring \nCore products."
+    }
+]
